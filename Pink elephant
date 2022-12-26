@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documents</title>
+</head>
+<body>
+  <section class="section">
+        <div class="container">
+            <div class="section__header">
+                <h2 class="section__title">Игры CSS</h2>
+
+                <div class="section__text">
+                    <p>Впичатления про игры</p>
+                </div>
+                       <a class="http://www.flexboxdefense.com/">Flexbox Defense</a>
+          </div>
+          </div>
+      <li class="list_li">Flexbox Defense</li>
+                    <div class="list__text">
+                        <p>Интересная игра.</p>
+                    </div>
+    <img src="IMG_20221226_171623.jpg" alt="Фотографія"> <p>
+    </div>
+     <a class="https://flexboxfroggy.com/#ru">Flexbox Froggy</a>
+                        </div>
+                    </div>
+                    <li class="list__li">Flexbox Froggy</li>
+                    <div class="list__text">
+                        <p>Хорошая. Состоит из 24 уровней.</p>
+                    </div>
+    <img src="IMG_20221226_171651.jpg" alt="Фотографія"><p> 
+ </div>
+                            <a class="https://flukeout.github.io/">CSS Diner</a>
+                        </div>
+                    </div>
+                    <li class="list__li">CSS Diner</li>
+                    <div class="list__text">
+                        <p>Игра учит разбиратся в отдельних елементах CSS-стиля.</p>
+                    </div>
+</p>
+    <img src="IMG_20221226_171638.jpg" alt="Фотографія">
+</body>
+</html>
